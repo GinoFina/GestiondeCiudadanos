@@ -14,7 +14,7 @@ La solución está modularizada en:
 - No se requieren librerías externas. Todo el código utiliza la biblioteca estándar de Python.
 
 ## Cómo ejecutar el script
-Para procesar el lote de datos y visualizar las métricas y segmentaciones por consola, ejecutar el siguiente comando en la raíz del proyecto:
+- Para procesar el lote de datos y visualizar las métricas y segmentaciones por consola, ejecutar el siguiente comando en la raíz del proyecto:
 python main.py
-Para la ejecución de las pruebas, ejecutar el siguiente comando en la raíz del proyecto:
+- Para la ejecución de las pruebas, ejecutar el siguiente comando en la raíz del proyecto:
 python -m unittest discover tests
